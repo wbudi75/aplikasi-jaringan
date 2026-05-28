@@ -52,12 +52,12 @@ Clone repository ini:
 
 ### Fitur Utama
 <p align="center">
-  <img src="images/aplikasi-jaringan.png" width="800" alt="Tampilan Utama Aplikasi">
+  <img src="src/images/aplikasi-jaringan.png" width="800" alt="Tampilan Utama Aplikasi">
 </p>
 
 ### Fitur Simulasi & Kalkulator
 <p align="center">
-  <img src="images/routing.png" width="400" alt="Simulasi Routing">
-  <img src="images/ip-calc.png" width="400" alt="IP Calculator">
+  <img src="src/images/routing.png" width="400" alt="Simulasi Routing">
+  <img src="src/images/ip-calc.png" width="400" alt="IP Calculator">
 </p>
 
