@@ -49,3 +49,15 @@ Jika kamu ingin menjalankan atau memodifikasi aplikasi ini di lingkungan lokal k
 Clone repository ini:
    1. git clone [https://github.com/wbudi75/aplikasi-jaringan.git](https://github.com/wbudi75/aplikasi-jaringan.git)
    2. cd aplikasi-jaringan
+
+### Fitur Utama
+<p align="center">
+  <img src="images/aplikasi-jaringan.png" width="800" alt="Tampilan Utama Aplikasi">
+</p>
+
+### Fitur Simulasi & Kalkulator
+<p align="center">
+  <img src="images/routing.png" width="400" alt="Simulasi Routing">
+  <img src="images/ip-calc.png" width="400" alt="IP Calculator">
+</p>
+
