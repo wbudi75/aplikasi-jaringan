@@ -46,6 +46,6 @@ Jika kamu ingin menjalankan atau memodifikasi aplikasi ini di lingkungan lokal k
 * Telah menginstal [Rust](https://www.rust-lang.org/)
 
 ### Langkah Instalasi
-1. Clone repository ini:
-   git clone [https://github.com/wbudi75/aplikasi-jaringan.git](https://github.com/wbudi75/aplikasi-jaringan.git)
-   cd aplikasi-jaringan
+Clone repository ini:
+   1. git clone [https://github.com/wbudi75/aplikasi-jaringan.git](https://github.com/wbudi75/aplikasi-jaringan.git)
+   2. cd aplikasi-jaringan
